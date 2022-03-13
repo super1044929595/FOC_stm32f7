@@ -1,0 +1,17 @@
+bikefoc\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+bikefoc\tasks.o: D:\windows_programe\keil_install\ARM\ARMCC\Bin\..\include\stdlib.h
+bikefoc\tasks.o: D:\windows_programe\keil_install\ARM\ARMCC\Bin\..\include\string.h
+bikefoc\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+bikefoc\tasks.o: D:\windows_programe\keil_install\ARM\ARMCC\Bin\..\include\stddef.h
+bikefoc\tasks.o: D:\windows_programe\keil_install\ARM\ARMCC\Bin\..\include\stdint.h
+bikefoc\tasks.o: ../Core/Inc/FreeRTOSConfig.h
+bikefoc\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+bikefoc\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+bikefoc\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+bikefoc\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM7/r0p1/portmacro.h
+bikefoc\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+bikefoc\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+bikefoc\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+bikefoc\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+bikefoc\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h
+bikefoc\tasks.o: D:\windows_programe\keil_install\ARM\ARMCC\Bin\..\include\stdio.h

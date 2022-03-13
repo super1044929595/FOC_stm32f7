@@ -1,0 +1,14 @@
+bikefoc\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+bikefoc\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+bikefoc\croutine.o: D:\windows_programe\keil_install\ARM\ARMCC\Bin\..\include\stddef.h
+bikefoc\croutine.o: D:\windows_programe\keil_install\ARM\ARMCC\Bin\..\include\stdint.h
+bikefoc\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+bikefoc\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+bikefoc\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+bikefoc\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+bikefoc\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM7/r0p1/portmacro.h
+bikefoc\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+bikefoc\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+bikefoc\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+bikefoc\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+bikefoc\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

@@ -1,0 +1,14 @@
+bikefoc\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+bikefoc\stream_buffer.o: D:\windows_programe\keil_install\ARM\ARMCC\Bin\..\include\stdint.h
+bikefoc\stream_buffer.o: D:\windows_programe\keil_install\ARM\ARMCC\Bin\..\include\string.h
+bikefoc\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+bikefoc\stream_buffer.o: D:\windows_programe\keil_install\ARM\ARMCC\Bin\..\include\stddef.h
+bikefoc\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+bikefoc\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+bikefoc\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+bikefoc\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+bikefoc\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM7/r0p1/portmacro.h
+bikefoc\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+bikefoc\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+bikefoc\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+bikefoc\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h

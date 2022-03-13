@@ -1,0 +1,13 @@
+bikefoc\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+bikefoc\heap_4.o: D:\windows_programe\keil_install\ARM\ARMCC\Bin\..\include\stdlib.h
+bikefoc\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+bikefoc\heap_4.o: D:\windows_programe\keil_install\ARM\ARMCC\Bin\..\include\stddef.h
+bikefoc\heap_4.o: D:\windows_programe\keil_install\ARM\ARMCC\Bin\..\include\stdint.h
+bikefoc\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+bikefoc\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+bikefoc\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+bikefoc\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+bikefoc\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM7/r0p1/portmacro.h
+bikefoc\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+bikefoc\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+bikefoc\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
