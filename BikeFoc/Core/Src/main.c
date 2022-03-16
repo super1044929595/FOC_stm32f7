@@ -834,7 +834,7 @@ void StartTask02(void *argument)
   for(;;)
   {
       //  osDelay(200);
-		printf("StartTask02------------------------>");
+		 printf("StartTask02------------------------>");
 		osDelay(200);
 	 //HAL_IWDG_Refresh(&hiwdg);
   }
