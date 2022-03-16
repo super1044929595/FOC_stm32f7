@@ -52,9 +52,9 @@ I (../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.h)(0x622D9
 I (D:\windows_programe\keil_install\ARM\ARMCC\include\stdio.h)(0x60252374)
 I (D:\windows_programe\keil_install\ARM\ARMCC\include\stdlib.h)(0x60252374)
 I (D:\windows_programe\keil_install\ARM\ARMCC\include\math.h)(0x60252378)
-I (../Core/Inc/jwUnite.h)(0x622F3417)
+I (../Core/Inc/jwUnite.h)(0x6231E8B3)
 F (..\Core\Src\jwUnite.c)(0x622DF2E3)(--c99 -c --cpu Cortex-M7.fp.dp -g -W -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F7xx_HAL_Driver/Inc -I ../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I ../Middlewares/Third_Party/FreeRTOS/Source/include -I ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM7/r0p1 -I ../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\_BikeFoc-ID:\windows_programe\keil_install\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\windows_programe\keil_install\Keil\STM32F7xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F767xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F767xx-o bikefoc\jwunite.o --omf_browse bikefoc\jwunite.crf --depend bikefoc\jwunite.d)
-I (../Core/Inc/jwUnite.h)(0x622F3417)
+I (../Core/Inc/jwUnite.h)(0x6231E8B3)
 I (../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal.h)(0x622D9635)
 I (../Core/Inc/stm32f7xx_hal_conf.h)(0x622FE821)
 I (../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_rcc.h)(0x622D9635)
@@ -89,8 +89,8 @@ I (../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_tim.h)(0x622D9635)
 I (../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_tim_ex.h)(0x622D9635)
 I (../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_uart.h)(0x622D9635)
 I (../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_uart_ex.h)(0x622D9635)
-F (..\Core\Src\jwMPU6050.c)(0x6231E29B)(--c99 -c --cpu Cortex-M7.fp.dp -g -W -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F7xx_HAL_Driver/Inc -I ../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I ../Middlewares/Third_Party/FreeRTOS/Source/include -I ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM7/r0p1 -I ../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\_BikeFoc-ID:\windows_programe\keil_install\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\windows_programe\keil_install\Keil\STM32F7xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F767xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F767xx-o bikefoc\jwmpu6050.o --omf_browse bikefoc\jwmpu6050.crf --depend bikefoc\jwmpu6050.d)
-I (../Core/Inc/jwMPU6050.h)(0x622F5193)
+F (..\Core\Src\jwMPU6050.c)(0x6231EEF4)(--c99 -c --cpu Cortex-M7.fp.dp -g -W -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F7xx_HAL_Driver/Inc -I ../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I ../Middlewares/Third_Party/FreeRTOS/Source/include -I ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM7/r0p1 -I ../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\_BikeFoc-ID:\windows_programe\keil_install\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\windows_programe\keil_install\Keil\STM32F7xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F767xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F767xx-o bikefoc\jwmpu6050.o --omf_browse bikefoc\jwmpu6050.crf --depend bikefoc\jwmpu6050.d)
+I (../Core/Inc/jwMPU6050.h)(0x6231EF1A)
 I (../Core/Inc/main.h)(0x622FE821)
 I (../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal.h)(0x622D9635)
 I (../Core/Inc/stm32f7xx_hal_conf.h)(0x622FE821)
@@ -126,9 +126,9 @@ I (../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_tim.h)(0x622D9635)
 I (../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_tim_ex.h)(0x622D9635)
 I (../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_uart.h)(0x622D9635)
 I (../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_uart_ex.h)(0x622D9635)
-I (../Core/Inc/jwUnite.h)(0x622F3417)
+I (../Core/Inc/jwUnite.h)(0x6231E8B3)
 I (../Core/Inc/jwMPUI2CSoftWare.h)(0x622FECC9)
-F (../Core/Src/main.c)(0x622FF385)(--c99 -c --cpu Cortex-M7.fp.dp -g -W -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F7xx_HAL_Driver/Inc -I ../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I ../Middlewares/Third_Party/FreeRTOS/Source/include -I ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM7/r0p1 -I ../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\_BikeFoc-ID:\windows_programe\keil_install\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\windows_programe\keil_install\Keil\STM32F7xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F767xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F767xx-o bikefoc\main.o --omf_browse bikefoc\main.crf --depend bikefoc\main.d)
+F (../Core/Src/main.c)(0x6231EBF9)(--c99 -c --cpu Cortex-M7.fp.dp -g -W -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F7xx_HAL_Driver/Inc -I ../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I ../Middlewares/Third_Party/FreeRTOS/Source/include -I ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM7/r0p1 -I ../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\_BikeFoc-ID:\windows_programe\keil_install\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\windows_programe\keil_install\Keil\STM32F7xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F767xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F767xx-o bikefoc\main.o --omf_browse bikefoc\main.crf --depend bikefoc\main.d)
 I (../Core/Inc/main.h)(0x622FE821)
 I (../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal.h)(0x622D9635)
 I (../Core/Inc/stm32f7xx_hal_conf.h)(0x622FE821)
@@ -179,8 +179,8 @@ I (../Core/Inc/jwSerial.h)(0x622EB022)
 I (D:\windows_programe\keil_install\ARM\ARMCC\include\stdio.h)(0x60252374)
 I (D:\windows_programe\keil_install\ARM\ARMCC\include\stdlib.h)(0x60252374)
 I (D:\windows_programe\keil_install\ARM\ARMCC\include\math.h)(0x60252378)
-I (../Core/Inc/jwUnite.h)(0x622F3417)
-I (../Core/Inc/jwMPU6050.h)(0x622F5193)
+I (../Core/Inc/jwUnite.h)(0x6231E8B3)
+I (../Core/Inc/jwMPU6050.h)(0x6231EF1A)
 F (../Core/Src/freertos.c)(0x622FE81F)(--c99 -c --cpu Cortex-M7.fp.dp -g -W -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F7xx_HAL_Driver/Inc -I ../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I ../Middlewares/Third_Party/FreeRTOS/Source/include -I ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM7/r0p1 -I ../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\_BikeFoc-ID:\windows_programe\keil_install\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\windows_programe\keil_install\Keil\STM32F7xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F767xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F767xx-o bikefoc\freertos.o --omf_browse bikefoc\freertos.crf --depend bikefoc\freertos.d)
 I (../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h)(0x622D95AB)
 I (D:\windows_programe\keil_install\ARM\ARMCC\include\stddef.h)(0x6025237E)
@@ -309,7 +309,7 @@ I (../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_tim_ex.h)(0x622D9635)
 I (../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_uart.h)(0x622D9635)
 I (../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_uart_ex.h)(0x622D9635)
 F (..\Core\Src\jwMPUI2CSoftWare.c)(0x6231E2CF)(--c99 -c --cpu Cortex-M7.fp.dp -g -W -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F7xx_HAL_Driver/Inc -I ../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I ../Middlewares/Third_Party/FreeRTOS/Source/include -I ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM7/r0p1 -I ../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\_BikeFoc-ID:\windows_programe\keil_install\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\windows_programe\keil_install\Keil\STM32F7xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F767xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F767xx-o bikefoc\jwmpui2csoftware.o --omf_browse bikefoc\jwmpui2csoftware.crf --depend bikefoc\jwmpui2csoftware.d)
-I (../Core/Inc/jwMPUI2CSoftWare.h)(0x622FECC9)
+I (../Core/Inc/jwMPUI2CSoftware.h)(0x622FECC9)
 I (../Core/Inc/main.h)(0x622FE821)
 I (../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal.h)(0x622D9635)
 I (../Core/Inc/stm32f7xx_hal_conf.h)(0x622FE821)
@@ -345,7 +345,7 @@ I (../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_tim.h)(0x622D9635)
 I (../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_tim_ex.h)(0x622D9635)
 I (../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_uart.h)(0x622D9635)
 I (../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_uart_ex.h)(0x622D9635)
-I (../Core/Inc/jwUnite.h)(0x622F3417)
+I (../Core/Inc/jwUnite.h)(0x6231E8B3)
 F (../Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_adc.c)(0x622D9635)(--c99 -c --cpu Cortex-M7.fp.dp -g -W -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F7xx_HAL_Driver/Inc -I ../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I ../Middlewares/Third_Party/FreeRTOS/Source/include -I ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM7/r0p1 -I ../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I ../Drivers/CMSIS/Include-I.\RTE\_BikeFoc-ID:\windows_programe\keil_install\ARM\CMSIS\5.8.0\CMSIS\Core\Include-ID:\windows_programe\keil_install\Keil\STM32F7xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F767xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F767xx-o bikefoc\stm32f7xx_hal_adc.o --omf_browse bikefoc\stm32f7xx_hal_adc.crf --depend bikefoc\stm32f7xx_hal_adc.d)
 I (../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal.h)(0x622D9635)
 I (../Core/Inc/stm32f7xx_hal_conf.h)(0x622FE821)

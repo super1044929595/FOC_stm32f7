@@ -799,6 +799,7 @@ static void MX_GPIO_Init(void)
 /* USER CODE END Header_StartDefaultTask */
 short tempadc;
 short ax[3];
+short gx[3];
 void StartDefaultTask(void *argument)
 {
   /* USER CODE BEGIN 5 */
@@ -807,11 +808,14 @@ void StartDefaultTask(void *argument)
  JW_MPU6050_Init();
   for(;;)
   {
-    //osDelay(100);
-   	printf("StartTask01------------------------>");
-	MPU_Get_Accelerometer(&ax[0], &ax[1], &ax[2]);
-	tempadc=MPU_Get_Temperature();
-	osDelay(100);
+		//osDelay(100);
+		printf("StartTask01------------------------>");
+		MPU_Get_Accelerometer(&ax[0], &ax[1], &ax[2]);
+		MPU_Get_Gyroscope(&gx[0], &gx[1], &gx[2]);
+		tempadc=MPU_Get_Temperature();
+		MPU_Getdata();
+		osDelay(100);
+		Get_Angle();
 	}
   /* USER CODE END 5 */
 }
