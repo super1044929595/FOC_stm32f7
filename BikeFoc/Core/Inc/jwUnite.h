@@ -8,7 +8,13 @@
 	extern "C"{
 #endif
 
-typedef unsigned char bool;
+
+#include "stm32f7xx_hal.h"
+
+typedef  unsigned char bool;
+typedef  unsigned char  u8;
+typedef  unsigned short u16;
+
 #define true          (0U)
 #define false         (1U)
 

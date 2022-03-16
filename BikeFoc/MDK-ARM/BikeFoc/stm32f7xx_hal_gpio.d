@@ -22,12 +22,12 @@ bikefoc\stm32f7xx_hal_gpio.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_
 bikefoc\stm32f7xx_hal_gpio.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_dma.h
 bikefoc\stm32f7xx_hal_gpio.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_dma_ex.h
 bikefoc\stm32f7xx_hal_gpio.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_cortex.h
-bikefoc\stm32f7xx_hal_gpio.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_eth.h
+bikefoc\stm32f7xx_hal_gpio.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_adc.h
+bikefoc\stm32f7xx_hal_gpio.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_adc_ex.h
 bikefoc\stm32f7xx_hal_gpio.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_flash.h
 bikefoc\stm32f7xx_hal_gpio.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_flash_ex.h
 bikefoc\stm32f7xx_hal_gpio.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_i2c.h
 bikefoc\stm32f7xx_hal_gpio.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_i2c_ex.h
-bikefoc\stm32f7xx_hal_gpio.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_iwdg.h
 bikefoc\stm32f7xx_hal_gpio.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_pwr.h
 bikefoc\stm32f7xx_hal_gpio.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_pwr_ex.h
 bikefoc\stm32f7xx_hal_gpio.o: ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_tim.h

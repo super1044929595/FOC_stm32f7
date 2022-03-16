@@ -13,6 +13,7 @@
 #include <stdlib.h>
 #include <math.h>
 #include "jwUnite.h"
+#include "main.h"
 
 
 typedef struct{
@@ -34,7 +35,7 @@ void (*communication_interrupt_register)(void);
 
 
 
-bool jwSerilaPortInit(void);
+
 
 bool jw_communication_Init(void);
 
