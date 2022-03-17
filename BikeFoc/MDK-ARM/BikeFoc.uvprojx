@@ -433,6 +433,11 @@
               <FileType>1</FileType>
               <FilePath>..\Core\Src\jwMPUI2CSoftWare.c</FilePath>
             </File>
+            <File>
+              <FileName>jwAlgorothem.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Core\Src\jwAlgorothem.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>

@@ -22,6 +22,8 @@
 #include "cmsis_os.h"
 #include "jwSerial.h"
 #include "jwMPU6050.h"
+#include "jwAlgorothem.h"
+
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
@@ -800,22 +802,33 @@ static void MX_GPIO_Init(void)
 short tempadc;
 short ax[3];
 short gx[3];
+MPU6050_Angle gamgle;
+
 void StartDefaultTask(void *argument)
 {
   /* USER CODE BEGIN 5 */
 
   /* Infinite loop */
- JW_MPU6050_Init();
+jw_MPU6050_init();
+MPU6050_Display_First();
+osDelay(1000);
+
+  
   for(;;)
   {
 		//osDelay(100);
-		printf("StartTask01------------------------>");
+		//printf("StartTask01------------------------>");
+		#if 0
 		MPU_Get_Accelerometer(&ax[0], &ax[1], &ax[2]);
 		MPU_Get_Gyroscope(&gx[0], &gx[1], &gx[2]);
 		tempadc=MPU_Get_Temperature();
 		MPU_Getdata();
 		osDelay(100);
 		Get_Angle();
+		#else
+		MPU6050_Get_Angle(&gamgle);
+		osDelay(100);
+		#endif
 	}
   /* USER CODE END 5 */
 }
@@ -834,7 +847,7 @@ void StartTask02(void *argument)
   for(;;)
   {
       //  osDelay(200);
-		 printf("StartTask02------------------------>");
+		// printf("StartTask02------------------------>");
 		osDelay(200);
 	 //HAL_IWDG_Refresh(&hiwdg);
   }
